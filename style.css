@@ -6,6 +6,18 @@ body {
     -webkit-font-smoothing: antialiased;
     -moz-osx-font-smoothing: grayscale;
 }
+.h2body{
+    width: 60%;
+    margin-left: 200px;
+}
+.citation{
+    font-family: "helvetica";
+    font-weight: 400;
+    color: #575757!important;
+    font-size: 24px;
+    text-transform: none;
+    width: auto;
+}
 
 a,
 button {
@@ -822,7 +834,7 @@ h4 {
 }
 
 .bg-presentation {
-    background-image: url("img/image-de-presentation.bmp");
+    background-image: url("img/image-de-presentation.png");
 }
 
 @media (max-width: 1024px) {
