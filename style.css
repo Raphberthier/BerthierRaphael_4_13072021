@@ -22,7 +22,7 @@ body {
     width: 100%;
     height: 100%;
     position: absolute;
-    background: radial-gradient(#000000ab, #c2795600);
+    background: rgba(0, 0, 0, .3);
 }
 .black{
     color: #000000 !important;
