@@ -27,6 +27,9 @@ body {
 .black{
     color: #000000 !important;
 }
+.btn-atomic-tangerine{
+    background: #f3976cb8 !important;
+}
 a,
 button {
     transition: all .3s ease-in-out;
