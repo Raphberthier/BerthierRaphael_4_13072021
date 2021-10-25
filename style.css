@@ -24,6 +24,9 @@ body {
     position: absolute;
     background: rgba(0,0,0,57%);
 }
+.black{
+    color: #000000 !important;
+}
 a,
 button {
     transition: all .3s ease-in-out;
