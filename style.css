@@ -23,7 +23,6 @@ body {
     height: 100%;
     position: absolute;
     background: rgba(0,0,0,46%);
-    mix-blend-mode: color-burn;
 }
 .black{
     color: #000000 !important;
